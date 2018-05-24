@@ -40,10 +40,10 @@ public class BookController {
 				"\"update\": \"Yes\",\n" +
 				"\"new_version\": \"1.0.1\",\n" +
 				"\"apk_file_url\": \"https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/apk/sample-debug.apk\",\n" +
-				"\"update_log\": \"1，添加网页加载错误界面。\\r\\n2，添加下拉刷新。\\r\\n3，绑定设备ID。\\r\\n4，微信支付。\\r\\n5，支付宝支付。\",\n" +
+				"\"update_log\": \"1、添加网页加载错误界面。\\r\\n2、添加下拉刷新。\\r\\n3、绑定设备ID。\\r\\n4、微信支付。\\r\\n5、支付宝支付。\",\n" +
 				"\"target_size\": \"3.5M\",\n" +
 				"\"new_md5\": \"60e2c3ab8bb4c078438f654e39c7b6a0\",\n" +
-				"\"constraint\": false\n" +
+				"\"constraint\": fale\n" +
 				"}";
 	}
 
